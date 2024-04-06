@@ -1,0 +1,14 @@
+c:\Projeler\Mechsoft-Tasks\bin\Debug\net6.0\reverse_text.exe
+c:\Projeler\Mechsoft-Tasks\bin\Debug\net6.0\reverse_text.deps.json
+c:\Projeler\Mechsoft-Tasks\bin\Debug\net6.0\reverse_text.runtimeconfig.json
+c:\Projeler\Mechsoft-Tasks\bin\Debug\net6.0\reverse_text.dll
+c:\Projeler\Mechsoft-Tasks\bin\Debug\net6.0\reverse_text.pdb
+c:\Projeler\Mechsoft-Tasks\obj\Debug\net6.0\reverse_text.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projeler\Mechsoft-Tasks\obj\Debug\net6.0\reverse_text.AssemblyInfoInputs.cache
+c:\Projeler\Mechsoft-Tasks\obj\Debug\net6.0\reverse_text.AssemblyInfo.cs
+c:\Projeler\Mechsoft-Tasks\obj\Debug\net6.0\reverse_text.csproj.CoreCompileInputs.cache
+c:\Projeler\Mechsoft-Tasks\obj\Debug\net6.0\reverse_text.dll
+c:\Projeler\Mechsoft-Tasks\obj\Debug\net6.0\refint\reverse_text.dll
+c:\Projeler\Mechsoft-Tasks\obj\Debug\net6.0\reverse_text.pdb
+c:\Projeler\Mechsoft-Tasks\obj\Debug\net6.0\reverse_text.genruntimeconfig.cache
+c:\Projeler\Mechsoft-Tasks\obj\Debug\net6.0\ref\reverse_text.dll
